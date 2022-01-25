@@ -3,5 +3,5 @@ Execute basic shell commands through xmpp
 
 ---
 
-`npm i xmpp` then
+`npm install @xmpp/client @xmpp/debug ` then
 `node xmpp-bot.js`
