@@ -10,3 +10,13 @@ Only runs on linux.
 then
 
 `node xmpp-bot.js`
+
+---
+
+# Groupchat stanza
+
+`xmpp.send(xml('presence', {from: '', to: ''}, xml('x', {xmlns: 'http://jabber.org/protocol/muc'}))`
+
+Make sure to specify the nick name at the end of the conference or you will get a malformed error
+
+:)
