@@ -1,5 +1,6 @@
 # xmpp-bot-boilerplate
 Execute basic shell commands through xmpp 
+only runs on linux
 
 ---
 
