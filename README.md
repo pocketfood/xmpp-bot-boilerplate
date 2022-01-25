@@ -5,7 +5,7 @@ Only runs on linux.
 
 ---
 
-`npm install @xmpp/client @xmpp/debug ` 
+`npm install xmpp @xmpp/client @xmpp/debug ` 
 
 then
 
